@@ -9,8 +9,8 @@
 <p align="left">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ewersoncastelo/Custom-Button-with-badge.svg">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ewersoncastelo/Custom-Button-with-badge.svg">
-  <a href="https://www.codacy.com/manual/ewersoncastelo/Custom-Button-with-badge?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ewersoncastelo/Custom-Button-with-badge&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/5b820f81af4545279cbfe587545c0643"/></a>
-<a href="https://github.com/ewersoncastelo/Custom-Button-with-badge/issues">
+  <a href="https://www.codacy.com/gh/ewersoncastelo/Custom-Button-with-badge/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ewersoncastelo/Custom-Button-with-badge&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/d990cacf25ad4ca7bd69e403503d12c5"/></a> 
+   <a href="https://github.com/ewersoncastelo/Custom-Button-with-badge/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/ewersoncastelo/Custom-Button-with-badge.svg">
   </a>
     <img alt="Repository size" src="https://img.shields.io/github/repo-size/ewersoncastelo/Custom-Button-with-badge.svg">
